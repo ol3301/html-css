@@ -1,0 +1,28 @@
+.head,.footer{
+    background-color: lightgreen;
+    padding: 30px;
+}
+
+
+
+.site_body{
+    background-color: bisque;
+    padding: 20px;
+    height: 300px;
+}
+
+.main_content,.side_col{
+    width: 49%;
+    height: 99%;
+}
+
+.main_content{
+    background-color: lightgray;
+    margin-right: 20px;
+    float: left;
+}
+
+.side_col{
+    background-color: orangered;
+    float: left;
+}

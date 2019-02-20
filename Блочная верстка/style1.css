@@ -1,0 +1,49 @@
+body{
+    width: 650px;
+}
+#header1{
+    float: left;
+    background-color: brown;
+}
+#header2{
+    float: left;
+    background-color: green;  
+}
+#header3{
+    float: left;
+    background-color: blue;      
+}
+
+#header1,#header2,#header3{
+    color: rgb(255, 249, 249);
+    font-size: 30px;
+    height: 50px;
+}
+
+#col1{
+    background-color: burlywood;
+    clear: left;
+    float: left;
+}
+#col2{
+    background-color: lightgreen;
+    float: left;
+}
+#col3{
+    background-color: lightblue;
+    float:left;
+}
+
+#col1,#col2,#col3{
+    height: 300px;
+    color: black;
+    font-size: 30px;
+}
+
+#header1,#header2,#header3,#col1,#col2,#col3{
+    width: 200px;
+    border: 2px solid rgb(2, 82, 2);
+    margin-right: 5px;
+    margin-bottom: 5px;
+    text-align: center;
+}
